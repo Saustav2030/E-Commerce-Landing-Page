@@ -1,4 +1,6 @@
-🌟 E-commerce Website Landing Page
+**🌟 E-commerce Website Landing Page
+**
+
 📖 Overview
 Welcome to the landing page of a modern, sleek E-commerce platform! 🛒💻
 This project is a front-end focused design built using HTML, CSS, and JavaScript, offering a smooth, engaging user experience. 🚀
